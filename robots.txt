@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phoquoquo.zweck.co/sitemap.xml
